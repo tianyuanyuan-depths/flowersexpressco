@@ -1,7 +1,7 @@
 {
     "title": "FLOWERS EXPRESS CO",
-    "description": "API文档及文章分享",
-    "author": "jinhai",
+    "description": "Online Flower Delivery",
+    "author": "zhanghaochen",
     "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.3",
@@ -76,8 +76,8 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/tianyuanyuan-depths/flowersexpressco/blob/master",
-            "label": "在GitHub上编辑"
+            "base": "",
+            "label": ""
         },
         "favicon": {
             "shortcut": "/assets/favicon.ico",
@@ -90,7 +90,7 @@
             "style": "flat"
         },
         "sharing": {
-            "douban": true,
+            "douban": false,
             "facebook": false,
             "google": false,
             "hatenaBookmark": false,
@@ -99,27 +99,15 @@
             "linkedin": false,
             "messenger": false,
             "pocket": false,
-            "qq": true,
+            "qq": false,
             "qzone": false,
             "stumbleupon": false,
             "twitter": false,
             "viber": false,
             "vk": false,
-            "weibo": true,
+            "weibo": false,
             "whatsapp": false,
             "all": [
-                "facebook",
-                "google",
-                "twitter",
-                "weibo",
-                "instapaper",
-                "linkedin",
-                "pocket",
-                "stumbleupon",
-                "qq",
-                "qzone",
-                "douban",
-                "line",
                 "whatsapp"
             ]
         },
@@ -162,7 +150,7 @@
         },
         "lanying-grow-ai": {
             "footer_note": " We provide premium flowers and a faster way to deliver love to every doorstep in Melbourne.",
-            "lanying_link": "https://lanying.link/3qur4g",
+            "lanying_link": "",
             "sitemap_hostname": "https://flowersexpressco.com.au/"
         }
     }
