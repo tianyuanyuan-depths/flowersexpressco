@@ -89,7 +89,7 @@
             "fade": false,
             "style": "flat"
         },
-        "sharing": 
+        "sharing": {
             "facebook": true,
             "google": true,
             "twitter": true,
@@ -106,7 +106,7 @@
             "isCollapsed": false,
             "isScrollspyActive": true,
             "visible": true,
-            "label": "内容"
+            "label": "lable"
         },
         "language-picker": {
             "grid-columns": 3
