@@ -67,8 +67,8 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "© 2019-2024 flowersexpressco | <a href='https://flowersexpressco.com.au/' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
-            "modify_label": "该文件修订时间：",
+            "copyright": "© 2019-2024 flowersexpressco | <a href='https://flowersexpressco.com.au/' style='text-decoration:none!important;'>website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>sitemap</a>",
+            "modify_label": "add at：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "simple-page-toc": {
@@ -89,27 +89,10 @@
             "fade": false,
             "style": "flat"
         },
-        "sharing": {
-            "douban": false,
-            "facebook": false,
-            "google": false,
-            "hatenaBookmark": false,
-            "instapaper": false,
-            "line": false,
-            "linkedin": false,
-            "messenger": false,
-            "pocket": false,
-            "qq": false,
-            "qzone": false,
-            "stumbleupon": false,
-            "twitter": false,
-            "viber": false,
-            "vk": false,
-            "weibo": false,
-            "whatsapp": false,
-            "all": [
-                "whatsapp"
-            ]
+        "sharing": 
+            "facebook": true,
+            "google": true,
+            "twitter": true,
         },
         "logo": {
             "logo": "/assets/logo.png",
