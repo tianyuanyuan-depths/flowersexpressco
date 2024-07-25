@@ -92,7 +92,7 @@
         "sharing": {
             "facebook": true,
             "google": true,
-            "twitter": true,
+            "twitter": true
         },
         "logo": {
             "logo": "/assets/logo.png",
