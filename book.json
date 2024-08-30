@@ -67,7 +67,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "© 2019-2024 flowersexpressco | <a href='https://flowersexpressco.com.au/' style='text-decoration:none!important;'>website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>sitemap</a>",
+            "copyright": "© 2019-2024 flowersexpressco | <a href='https://flowersexpressco.com.au/' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
             "modify_label": "add at：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -76,7 +76,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "",
+            "base": "https://github.com/tianyuanyuan-depths/flowersexpressco/blob/master",
             "label": ""
         },
         "favicon": {
@@ -126,7 +126,7 @@
             ]
         },
         "3-ba": {
-            "token": "e78e9e5952ccb5b1b443e429da5f0b03"
+            "token": "<script> var _hmt = _hmt || []; (function() {   var hm = document.createElement(\"script\");   hm.src = \"https://hm.baidu.com/hm.js?08fa1801471b903a2c040f8aa3c40e0b\";   var s = document.getElementsByTagName(\"script\")[0];    s.parentNode.insertBefore(hm, s); })(); </script>"
         },
         "ga4": {
             "tag": "G-EE5J5LB4MD"
