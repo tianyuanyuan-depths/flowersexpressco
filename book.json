@@ -126,7 +126,7 @@
             ]
         },
         "3-ba": {
-            "token": "<script> var _hmt = _hmt || []; (function() {   var hm = document.createElement(\"script\");   hm.src = \"https://hm.baidu.com/hm.js?08fa1801471b903a2c040f8aa3c40e0b\";   var s = document.getElementsByTagName(\"script\")[0];    s.parentNode.insertBefore(hm, s); })(); </script>"
+            "token": "08fa1801471b903a2c040f8aa3c40e0b"
         },
         "ga4": {
             "tag": "G-EE5J5LB4MD"
