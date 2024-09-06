@@ -3,7 +3,7 @@
     "description": "Online Flower Delivery",
     "author": "zhanghaochen",
     "output.name": "site",
-    "language": "zh-hans",
+    "language": "en",
     "gitbook": "3.2.3",
     "root": ".",
     "styles": {
@@ -67,7 +67,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "© 2019-2024 flowersexpressco | <a href='https://flowersexpressco.com.au/' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
+            "copyright": "© 2019-2024 flowersexpressco | <a href='https://flowersexpressco.com.au/' target='_blank' style='text-decoration:none!important;'>Official Website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>Sitemap</a>",
             "modify_label": "add at：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
