@@ -112,7 +112,7 @@
             "grid-columns": 3
         },
         "canonical-link": {
-            "baseURL": "https://flowersexpressco.com.au"
+            "baseURL": "https://wiki.flowersexpressco.com.au"
         },
         "image-captions": {
             "caption": "_CAPTION_"
@@ -134,7 +134,7 @@
         "lanying-grow-ai": {
             "footer_note": " We provide premium flowers and a faster way to deliver love to every doorstep in Melbourne.",
             "lanying_link": "",
-            "sitemap_hostname": "https://flowersexpressco.com.au/"
+            "sitemap_hostname": "https://wiki.flowersexpressco.com.au/"
         }
     }
 }
